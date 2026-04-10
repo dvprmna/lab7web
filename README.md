@@ -36,7 +36,7 @@ Semua halaman menggunakan **layout yang sama** sesuai modul.
 
 ## Dibuat Oleh
 **Nama:** Diva Permana Putri
-**Kelas:** TI243B
+**Kelas:** I243B
 **Tanggal:** 14 Maret 2026
 
 ---
