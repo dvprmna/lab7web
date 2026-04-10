@@ -30,7 +30,9 @@ Membuat website sederhana menggunakan **CodeIgniter 4** dengan konsep **MVC**.
 Semua halaman menggunakan **layout yang sama** sesuai modul.
 
 ## Screenshot Praktikum
-`hasil_praktikum_1/` dan `codingan_praktikum_1/`
+<img width="1919" height="1007" alt="codingan_praktikum_1" src="https://github.com/user-attachments/assets/f1bab1dc-29ae-4367-90ed-9d4419e7e908" />
+<img width="1915" height="948" alt="hasil_praktikum_1" src="https://github.com/user-attachments/assets/303ae23d-8300-4861-826e-0604918d9479" />
+
 
 ## Dibuat Oleh
 **Nama:** Diva Permana Putri
