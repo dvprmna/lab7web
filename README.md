@@ -30,7 +30,7 @@ Membuat website sederhana menggunakan **CodeIgniter 4** dengan konsep **MVC**.
 Semua halaman menggunakan **layout yang sama** sesuai modul.
 
 ## Screenshot Praktikum
-*(nanti kamu tambahkan screenshot sendiri di folder `screenshot/`)*
+`screenshot/`
 
 ## Dibuat Oleh
 **Nama:** Diva Permana Putri
